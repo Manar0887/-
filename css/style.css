@@ -60,12 +60,12 @@
   text-decoration: none;
   transition: 0.3s;
 }
-/* هنا الاولوان لم تطبق عند الضغط علي اللينك*/
-.header-area .links li a :hover,
-.header-area .links li a :active {
+
+.header-area .links li a:hover,
+.header-area .links li a:active {
   color: var(--main-color);
 }
-/*مفروض عايزه هنا اظبط المكان الوصف في النص*/
+
 .introduction-text {
   position: absolute;
   left: 50%;
