@@ -8,7 +8,6 @@ let imagsArray = ["image1", "image2", "image3", "image4"];
 setInterval(() => {
   //GET Random Number
   let randomNuber = Math.floor(Math.random() * imagsArray.length);
-  console.log(randomNuber);
   
   //change background  image url
   landingpage.style.backgroundImage =
