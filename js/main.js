@@ -1,7 +1,7 @@
 //شغل java لم يطبق
 
 //select landing page elemwnt
-let landingpage = document.querySelector(".landing-page");
+let landingpage = document.querySelector(".page-top");
 //get arrey of imags
 let imagsArray = ["image1", "image2", "image3", "image4"];
 
