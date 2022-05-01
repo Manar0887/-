@@ -1,6 +1,6 @@
 /*  god help me */
 
-/* You did a great job, I will take it from here, don't worry👍 */
+
 :root {
   --main-color: rgb(1, 181, 1);
 }
@@ -60,16 +60,16 @@ nav .logo {
   text-decoration: none;
   transition: 0.3s;
 }
-/* هنا الاولوان لم تطبق عند الضغط علي اللينك*/
+
 .header-area .links li a:hover,
 .header-area .links li a:active {
   color: var(--main-color);
 }
-/*مفروض عايزه هنا اظبط المكان الوصف في النص*/
+
 .introduction-text {
   position: absolute;
   left: 50%;
-  bottom: 50;
+  top:30%;
   transform: translate(-50%, -50%);
   z-index: 2;
   color: #fff;
